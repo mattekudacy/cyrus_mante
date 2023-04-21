@@ -1,4 +1,4 @@
-## Cyrus Mante's Data science and ML portfolio project
+## Cyrus Mante's Data Science and ML portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
