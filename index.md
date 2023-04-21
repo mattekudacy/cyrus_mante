@@ -78,6 +78,19 @@ This project uses computer vision techniques to recognize hand gestures and tran
 
 ---
 
+---
+
+### Steam Games Analysis
+As part of the Google Data Analytics Certificate program, an optional case study is available for completion. There are two options for this case study: use the one provided by the program or create your own. In order to challenge myself and put my skills to the test, I decided to create my own case study. I used a combination of Google Sheets and a custom web scraper built with Microsoft Power Automate to gather and analyze the data, resulting in insightful visualizations.
+
+
+[![](https://img.shields.io/badge/Google%20Sheets-white?logo=Google%20Sheets)](#) [![](https://img.shields.io/badge/Power%20Automate-white?logo=Power%20Automate&logoColor=blue)](#)
+
+
+[View Presentation ](https://www.canva.com/design/DAFV8oSjZK0/Qlmip2qk2FycmY5lUY8LRA/view#11)
+
+---
+
 ## Other projects
 A collection of my smaller projects besides machine learning and data science:
 
