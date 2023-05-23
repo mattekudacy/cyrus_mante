@@ -2,6 +2,19 @@
 
 ---
 
+### Sentiment Analysis using NLTK and Wordcloud
+
+This project aims to perform sentiment analysis on the comments section of the YouTube Rewind 2018 video by leveraging the Natural Language Toolkit (NLTK) and Wordcloud. Through manual data scraping, a dataset comprising the comments from the YouTube Rewind video 2018 was collected. The objective is to gain insights into the sentiment expressed by viewers towards the video, allowing for a comprehensive understanding of the general sentiment landscape. The NLTK library will be employed to preprocess the textual data, perform sentiment classification, and generate sentiment scores for each comment. Additionally, the Wordcloud library will be utilized to create visual representations of the most frequent words used in positive, negative, and neutral comments. By analyzing the sentiment of YouTube Rewind comments, this project seeks to provide valuable insights into the viewers' opinions and sentiments surrounding the video, ultimately contributing to a better understanding of the audience's reception.
+
+<img src="images/wc1.png?raw=true" />
+<img src="images/hist.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NLTK-white)](#) [![](https://img.shields.io/badge/Youtube-white?logo=https://www.youtube.com/img/desktop/supported_browsers/yt_logo_rgb_light.png)](#)
+
+[View Repository](https://github.com/mattekudacy/sentiment-analysis-nltk)
+
+---
+
 ### Custom Object Detection using YOLOv3
 
 This project involves implementing a custom object detection system using the state-of-the-art YOLOv3 algorithm. YOLOv3 (You Only Look Once version 4) is an efficient and accurate deep learning model that can detect objects in real-time, making it well-suited for various applications such as security, autonomous vehicles, and robotics. By training YOLOv3 on a custom dataset of images, this project aims to develop a customized object detection system capable of detecting specific objects in real-world scenarios.
